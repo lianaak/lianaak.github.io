@@ -43,6 +43,8 @@ sections:
         
         When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art. 
 
-        ![banner](/assets/media/banner.jpg)
+
+        <p>
+        <img src="/assets/media/banner.jpg" width="220" height="240" /> </p>
 
 ---
