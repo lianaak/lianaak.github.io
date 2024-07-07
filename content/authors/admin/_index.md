@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Լիանա
+title: Liana Akobian
 
 # Name pronunciation (optional)
 name_pronunciation: 
