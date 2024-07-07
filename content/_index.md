@@ -43,6 +43,6 @@ sections:
         
         When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art. 
 
-        ![banner](../assets/media/banner.jpg)
+        ![banner](/assets/media/banner.jpg)
 
 ---
