@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: header.jpg
           filters:
             brightness: 1.0
           size: cover
@@ -42,5 +42,7 @@ sections:
         **I am looking for a PhD position in a group that allows me to pursue my interest in computational neuroscience.**
         
         When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art. 
+
+        ![banner](../assets/media/banner.jpg)
 
 ---

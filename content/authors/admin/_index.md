@@ -147,6 +147,4 @@ languages:
 
 ---
 
-**Just a girl with a CS background, trying to understand brains.**
-
--
+## Just a girl with a CS background, trying to understand brains.
