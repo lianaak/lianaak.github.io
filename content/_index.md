@@ -39,8 +39,8 @@ sections:
         I am applying a cascade of preprocessing techniques for aligning signals from different C. elegans whole brain recordings in order to obtain a low dimensional representation of C. elegans brain activity that is shared across many individuals.
         By modeling the resulting low dimensional representation via dynamical systems, such as Switching Linear Dynamical Systems and its variations, I want to analyze the dynamics that constitute movement.
 
-      **I am looking for a PhD position in a group that allows me to pursue my interest in computational neuroscience.**
-      
-      When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art. 
+        **I am looking for a PhD position in a group that allows me to pursue my interest in computational neuroscience.**
+        
+        When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art. 
 
 ---
