@@ -72,21 +72,8 @@ education:
     date_end: 2020-12-31
     summary: |
       Thesis: "Evaluation of the multilingual Semantic Text Similarity"
-      Abstract: Determining the semantic relatedness between texts, such as phrases and sentences, has
-become one of the most crucial tasks within the field of Natural Language Processing. To
-compute this semantic relatedness or Semantic Textual Similarity (STS), a given text has
-to be first transformed into a numerical representation, which can be achieved through
-various mathematical concepts, also called word embeddings. This thesis addresses the
-question of which word embeddings or, more generally, architectures determine STS
-most accurately. Some of the currently most notable models are the frequency-based
-Bag of Words (BoW) and the prediction-based Long Short-Term Memory (LSTM) and
-Bidirectional Encoder Representations from Transformers (BERT), each combined with a
-distance function, such as Cosine Similarity. In the scope of this thesis these STS models
-among others are investigated, implemented and trained on multilingual data, in English
-and German. It is established that prediction-based word embeddings result in more
-accuracy than frequency-based representations for English data sets. It is also discovered
-that the evaluation of the models highly depends on STS annotations in the data set,
-which are not provided in available German corpora.
+      Abstract: Determining the semantic relatedness between texts, such as phrases and sentences, has become one of the most crucial tasks within the field of Natural Language Processing. To compute this semantic relatedness or Semantic Textual Similarity (STS), a given text has to be first transformed into a numerical representation, which can be achieved through various mathematical concepts, also called word embeddings. This thesis addresses the question of which word embeddings or, more generally, architectures determine STS most accurately. Some of the currently most notable models are the frequency-based Bag of Words (BoW) and the prediction-based Long Short-Term Memory (LSTM) and
+      Bidirectional Encoder Representations from Transformers (BERT), each combined with a distance function, such as Cosine Similarity. In the scope of this thesis these STS models among others are investigated, implemented and trained on multilingual data, in English and German. It is established that prediction-based word embeddings result in more accuracy than frequency-based representations for English data sets. It is also discovered that the evaluation of the models highly depends on STS annotations in the data set, which are not provided in available German corpora.
 
 work:
   - position: Director of Cloud Infrastructure
