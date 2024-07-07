@@ -3,7 +3,7 @@
 title: Liana Akobian
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Liana
@@ -40,8 +40,9 @@ profiles:
 
 interests:
   - Data Science
-  - Artificial Intelligence
   - Computational Neuroscience
+  - Artificial Intelligence
+
 
 education:
   - area: MSc Data Science
@@ -146,6 +147,6 @@ languages:
 
 ---
 
-## About Me
+**Just a girl with a CS background, trying to understand brains.**
 
 -
