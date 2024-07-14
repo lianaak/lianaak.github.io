@@ -121,17 +121,13 @@ skills:
       - name: Climbing
         description: ''
         percent: 60
-        icon: 🧗🏻‍♀️
       - name: Reading
         description: ''
         percent: 100
-        icon: 📖
       - name: Art
         description: ''
         percent: 80
-        icon: 🖌️
       - name: Chess
-        icon: ♟️
 
 languages:
   - name: German
