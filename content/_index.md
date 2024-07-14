@@ -18,9 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      button:
-        text: My Art
-        url: https://www.lianaakobian.com/
     design:
       css_class: rose #dark
       background:
@@ -44,7 +41,11 @@ sections:
 
         **I am looking for a PhD position in a group that allows me to pursue my interest in computational neuroscience.**
         
-        When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art
+        When I'm not trying to figure the truths of the world (big emphasis on trying!), I try to portray the truths of my life through art. 
+      button:
+        text: My Art
+        url: https://www.lianaakobian.com/art
+
 
 
 ---
