@@ -115,22 +115,23 @@ skills:
         percent: 40
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#000' #eeac02
+    color_border: '#000' #f0bf23
     items:
       - name: Climbing
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: 🧗🏻‍♀️
       - name: Reading
         description: ''
         percent: 100
-        icon: book
+        icon: 📖
       - name: Art
         description: ''
         percent: 80
-        icon: pen
+        icon: 🖌️
       - name: Chess
+        icon: ♟️
 
 languages:
   - name: German
