@@ -24,7 +24,7 @@ sections:
         color: pink
         image:
           # Add your image background to `assets/media/`.
-          filename: banner_new.jpg
+          filename: banner_new2.jpg
           filters:
             brightness: 1.0
           size: cover
