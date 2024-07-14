@@ -13,11 +13,11 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
-  - name: Art
-    url: art/
-    weight: 13
-  - name: Blog
-    url: /#news
-    weight: 11
+  #- name: Art
+  #  url: art/
+  #  weight: 13
+  #- name: Blog
+  #  url: /#news
+  #  weight: 11
 
  
