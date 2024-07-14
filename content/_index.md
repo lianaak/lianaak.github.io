@@ -21,10 +21,10 @@ sections:
     design:
       css_class: rose #dark
       background:
-        color: black
+        color: pink
         image:
           # Add your image background to `assets/media/`.
-          filename: header.jpg
+          filename: banner_new.jpg
           filters:
             brightness: 1.0
           size: cover
