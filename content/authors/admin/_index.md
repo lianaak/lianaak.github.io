@@ -77,28 +77,25 @@ education:
       Bidirectional Encoder Representations from Transformers (BERT), each combined with a distance function, such as Cosine Similarity. In the scope of this thesis these STS models among others are investigated, implemented and trained on multilingual data, in English and German. It is established that prediction-based word embeddings result in more accuracy than frequency-based representations for English data sets. It is also discovered that the evaluation of the models highly depends on STS annotations in the data set, which are not provided in available German corpora.
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Big Data Engineer
+    company_name: TU Vienna
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-01-04
+    date_end: 2023-01-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - managing and tuning a Big Data cluster
+      - holding courses and workshops on Big Data
+  - position: HR Technology Working Student
+    company_name: SAP 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-11-01
+    date_end: 2020-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - managing innovative IT-projects such as Chatbots based on Machine Learning
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -121,18 +118,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Climbing
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: book
+      - name: Art
         description: ''
         percent: 80
-        icon: camera
+        icon: pen
+      - name: Chess
 
 languages:
   - name: German
