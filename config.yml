@@ -12,21 +12,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Experience
+          url: exprience/
           weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Projects
+          url: projects/
           weight: 2
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: blog/
+          weight: 4 
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -67,7 +64,7 @@ params:
             - name: Courses
               url: courses/
             - name: Blog
-              url: archive/
+              url: blog/
 
     socialIcons:
         - name: CV
