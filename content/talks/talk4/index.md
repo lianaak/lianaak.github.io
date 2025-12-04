@@ -1,17 +1,13 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+title: "NeuroAI: Bridging Neuroscience and AI" 
+date: 2025-01-28
 cover:
-    image: "course2.png"
+    image: "gdg.png"
     alt: "Figure caption"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://gdg.community.dev/events/details/google-gdg-on-campus-vienna-university-of-technology-presents-neuroai-bridging-neuroscience-and-ai/"
+    Text: "Talk portal"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -19,4 +15,4 @@ disableAnchoredHeadings: false
 
 ## Course Description
 
-WIP
+Uncover insights from worm brains on model interpretability
