@@ -12,14 +12,11 @@ taxonomies:
 
 menu:
     main:
-        - name: Experience
-          url: exprience/
-          weight: 5 
         - name: Projects
           url: projects/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Talks
+          url: talks/
           weight: 3
         - name: Notes
           url: notes/
@@ -41,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["experiences","projects","courses","notes"]
+    MainSections: ["projects","talks","notes"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -57,12 +54,10 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Experience
-              url: experience/
             - name: Projects
               url: projects/
-            - name: Courses
-              url: courses/
+            - name: Talks
+              url: talks/
             - name: Notes
               url: notes/
 
