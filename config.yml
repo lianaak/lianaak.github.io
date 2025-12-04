@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Liana Akobian
           subtitle: "I am a research assistant in Alex Cayco-Gajic lab at PSL-ENS (École Normale Supérieure). My research focuses on using and developing computational tools to dissect neural dynamics. I have a Bachelor's degree in Computer Science from the University of Vienna and a Master's degree in Data Science from the Technical University of Vienna. I am currently working on identifiying interpretable representations of connectivity weights in recurrent neural networks."
-          imageUrl: "picture.jpeg"
+          imageUrl: picture.jpeg
           imageWidth: 160
           imageHeight: 160
           buttons:
