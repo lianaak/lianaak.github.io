@@ -19,11 +19,4 @@ disableAnchoredHeadings: false
 
 ## Course Description
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
-
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
-
+WIP
