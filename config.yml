@@ -21,15 +21,15 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        - name: Blog
-          url: blog/
+        - name: Notes
+          url: notes/
           weight: 4 
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Liana Akobian's cv, projects, notes,.."
+    author: Liana Akobian
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "December 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["experiences","projects","courses","notes"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -63,8 +63,8 @@ params:
               url: projects/
             - name: Courses
               url: courses/
-            - name: Blog
-              url: blog/
+            - name: Notes
+              url: notes/
 
     socialIcons:
         - name: CV
