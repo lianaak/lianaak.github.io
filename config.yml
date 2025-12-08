@@ -25,7 +25,7 @@ menu:
 params:
     description: "This website hosts Liana Akobian's cv, projects, notes,.."
     author: "Liana Akobian"
-    DateFormat: "December 2025"
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
