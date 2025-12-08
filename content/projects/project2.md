@@ -1,13 +1,16 @@
 ---
 title: "Modeling Dynamics on a Canonical Neural Manifold" 
 date: 2025-01-28
-tags: ["computational neuroscience","simulations","dataset","python"]
-#author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-#description: "This dataset contains all irregular verbs in known Romance languages."
-#summary: "This dataset contains all irregular verbs in known Romance languages."
-showToc: true
-disableAnchoredHeadings: false
+tags: ["philology","oleic science","history of oil","Mediterranean world"]
+author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
+summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+cover:
+    image: "project2_cover.png"
+    alt: "Latent Space"
+    relative: true
 
+---
 ---
 
 ## Abstract
