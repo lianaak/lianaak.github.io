@@ -1,16 +1,14 @@
 ---
 title: "Modeling Dynamics on a Canonical Neural Manifold" 
 date: 2025-01-28
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["computational neuroscience","simulations","c. elegans","python"]
 cover:
     image: "project2_cover.png"
-    alt: "Latent Space"
+    alt: "Late"
     relative: true
+showToc: true
+disableAnchoredHeadings: false
 
----
 ---
 
 ## Abstract

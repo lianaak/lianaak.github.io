@@ -24,8 +24,7 @@ menu:
 
 params:
     description: "This website hosts Liana Akobian's cv, projects, notes,.."
-    author: Liana Akobian
-    # googleAnalyticsID: "G-XXXXX"
+    author: "Liana Akobian"
     DateFormat: "December 2025"
     defaultTheme: light
     hideFooter: false
@@ -40,7 +39,7 @@ params:
     ShowAllPagesInArchive: false
     MainSections: ["projects","talks","notes"]
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
