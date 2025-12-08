@@ -3,7 +3,7 @@ title: "Modeling Dynamics on a Canonical Neural Manifold"
 date: 2025-01-28
 tags: ["computational neuroscience","simulations","c. elegans","python"]
 cover:
-    image: "project2_cover.png"
+    image: "project2.png"
     alt: "Late"
     relative: true
 showToc: true
