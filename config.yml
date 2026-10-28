@@ -50,7 +50,10 @@ params:
           title: Liana Akobian
           subtitle: "I am a PhD student in Alex Cayco-Gajic lab at PSL-ENS (École Normale Supérieure) funded by an EDSC fellowship. 
             My research focuses on understanding and characterizing non-normal dynamics, especially in the context of working memory and decision making. My approach is to develop computational and data-driven tools. 
-            I am currently working on SchurMO, a tool for identifiying connectivity motifs within recurrent weights."
+            I am currently working on SchurMO, a tool for identifying connectivity motifs within recurrent weights.
+            My broader research interests include computational neuroscience, machine learning, AI ethics and I also have a thing for tiny worm brains 🪱
+            I love to collaborate and discuss ideas, so please shoot me an email if you want to chat!
+            "
           imageUrl: picture.jpeg
           imageWidth: 160
           imageHeight: 160
