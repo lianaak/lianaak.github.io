@@ -48,27 +48,29 @@ params:
     profileMode:
           enabled: true
           title: Liana Akobian
-          subtitle: "I am a research assistant in Alex Cayco-Gajic lab at PSL-ENS (École Normale Supérieure). My research focuses on using and developing computational tools to dissect neural dynamics. I have a Bachelor's degree in Computer Science from the University of Vienna and a Master's degree in Data Science from the Technical University of Vienna. I am currently working on identifiying interpretable representations of connectivity weights in recurrent neural networks."
+          subtitle: "I am a PhD student in Alex Cayco-Gajic lab at PSL-ENS (École Normale Supérieure) funded by an EDSC fellowship. 
+            My research focuses on understanding and characterizing non-normal dynamics, especially in the context of working memory and decision making. My approach is to develop computational and data-driven tools. 
+            I am currently working on SchurMO, a tool for identifiying connectivity motifs within recurrent weights."
           imageUrl: picture.jpeg
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Projects
-              url: projects/
-            - name: Talks
-              url: talks/
-            - name: Notes
-              url: notes/
+            #- name: Projects
+            #  url: projects/
+            #- name: Talks
+            #  url: talks/
+            #- name: Notes
+            #  url: notes/
 
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:liana.akobian@ens.psl.eu
         - name: GitHub
           url: https://github.com/lianaak
-        - name: YouTube
-          url: https://www.youtube.com/@lianaakobian
+        - name: Email
+          url: mailto:liana.akobian@ens.psl.eu
+        #- name: YouTube
+        #  url: https://www.youtube.com/@lianaakobian
         - name: Bluesky
           url: https://bsky.app/profile/lakobian.bsky.social
 
